@@ -69,3 +69,8 @@ section{
     height: 100px;
     margin: 70px 30px;
 }
+
+#bat{
+    border: 2px solid red;
+    height: 10px;
+}
